@@ -1,16 +1,26 @@
-### Hi there 👋
+# [Amit Kumar]
 
-<!--
-**ammyroy119/ammyroy119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Introduction
+Hello there! I'm [Amit Kumar], a passionate [MERN Stack Developer]. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- [Javascript]
+- [Typescript]
+- [NodeJs]
+- [Express]
+- [Nest]
+- [MongoDB]
+- [ReactJs]
+- [Html/css]
+- [AWS]
+- ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: [ammyyadav119@gmail.com]
+- Twitter: [https://twitter.com/Amitkum66494760]
+- LinkedIn: [https://www.linkedin.com/in/amit-kumar-016242168/]
+- [Any other social media or contact information you'd like to share]
+
+## 🎉 Thanks for visiting!
+Feel free to explore my repositories and connect with me. Let's collaborate and create amazing things together!
+
