@@ -1,18 +1,18 @@
-# [Amit Kumar]
+# Amit Kumar
 
 ## 👋 Introduction
-Hello there! I'm [Amit Kumar], a passionate [MERN Stack Developer]. Welcome to my GitHub profile!
+Hello there! I'm Amit Kumar, a passionate MERN Stack Developer. Welcome to my GitHub profile!
 
 ## 🚀 Skills
-- [Javascript]
-- [Typescript]
-- [NodeJs]
-- [Express]
-- [Nest]
-- [MongoDB]
-- [ReactJs]
-- [Html/css]
-- [AWS]
+- Javascript
+- Typescript
+- NodeJs
+- Express
+- Nest
+- MongoDB
+- ReactJs
+- Html/css
+- AWS
 - ...
 
 ## 📫 Contact Me
